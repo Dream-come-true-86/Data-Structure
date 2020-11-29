@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//memory
+//memoryb
 void allocMemory(void** ptr, int size)
 {
 	*ptr = malloc(size);
